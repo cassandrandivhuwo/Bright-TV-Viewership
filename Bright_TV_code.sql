@@ -1,3 +1,4 @@
+-- Databricks notebook source
 ---View the data in the viewership table
 SELECT * 
 FROM `workspace`.`case_study2`.`viewership_6` 
