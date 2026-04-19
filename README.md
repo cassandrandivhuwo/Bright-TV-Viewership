@@ -24,15 +24,16 @@ In order to achieve the aim, the following objectives must be met:
 - March is the month with the largest number of viewers
 - The days of the week with the highest number of viewers is Wednesday, Saturday and Friday, while Monday has the lowest number of viewers
 - The time of day with high viewership is Afternoon, followed by Evening
-- Males watch the most TV
-- People within the youth age group view are the largest TV viewers, while elders are the lowest TV viewers
-- The black race has the highest TV viewership, and the white race has the lowest viewrship
-- Gauteng province has the highest viewership, followed by Western Cape
-  
+- Males watch more TV than females.
+- People within the youth age group are the largest TV viewers, while elders are the lowest TV viewers
+- The black race has the highest TV viewership, and the white race has the lowest viewership
+- Gauteng Province has the highest viewership and Western Cape Province has the second largest viewership.
+- North West, Free State and Northern Cape Provinces have low that 10% viewers.
+
 ### Recommendations
 - Show content with high number of viewers such as: Supersport Live Events, ICC Cricket World Cup 2011 and Channel 0, on days with low TV consumption to increase viewership.
 - Introduce more TV shows that use languages which cater for the different races.
-- Show more content that attracts males as they are the ones who consume more TV content.
-- Introduce shows that can attract increase female viewers.
-- Increase contents that attract the youth and adults.
-- Have marketing campaigns and promotions directed at provinces with high number of viewers such as Gauteng and Western cape. 
+- Show more content that attracts males as they are the ones who consume more TV content, especially sports related content.
+- Promote shows that can increase female viewers.
+- Increase contents (sports and music) which attracts the youth and adults as they are the ones who view TV the most.
+- Have marketing campaigns and promotions directed at provinces with high number of viewers such as Gauteng and Western cape.
