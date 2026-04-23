@@ -35,7 +35,7 @@ In order to achieve the aim, the following objectives must be met:
 - Gauteng Province has the highest viewership and Western Cape Province has the second largest viewership.
 - North West, Free State and Northern Cape Provinces have low that 10% viewers.
 
-### Recommendations
+## Recommendations
 - Show content with high number of viewers such as: Supersport Live Events, ICC Cricket World Cup 2011 and Channel 0, on days with low TV consumption to increase viewership.
 - Introduce more TV shows that use languages which cater for the different races.
 - Show more content that attracts males as they are the ones who consume more TV content, especially sports related content.
