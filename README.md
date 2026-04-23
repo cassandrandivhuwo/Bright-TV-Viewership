@@ -18,7 +18,12 @@ In order to achieve the aim, the following objectives must be met:
 - Use Microsoft PowerPoint for presentation
 
 ### Summary of results
-- The total number of TV viewers is 9993.
+#### Dashboards Links:
+Google Looker Studio: https://datastudio.google.com/reporting/0de688b6-93eb-4751-abcd-fe5471ed1071/page/DcavF
+Power BI: 
+Lovable AI: 
+
+- The total number of TV views is 10000, and the total number of viewers/subscribers is 4526.
 - There are 21 TV channels.
 - The most viewed channels are Supersport Live Events (1637 viewers), ICC Cricket World Cup 2011 (1464 viewers) and Channel 0 (1048 viewers)
 - March is the month with the largest number of viewers
