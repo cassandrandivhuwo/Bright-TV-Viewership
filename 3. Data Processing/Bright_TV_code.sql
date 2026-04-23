@@ -71,7 +71,7 @@ LIMIT 100;
 
 ---Check unique channel categories
 ---There are 21 channels
-SELECT DISTINCT A.Channel2 
+SELECT COUNT(DISTINCT A.Channel2) AS number_of_channels 
 FROM `workspace`.`case_study2`.`viewership_6` AS A 
 LEFT JOIN `workspace`.`case_study2`.`user_profiles_6` AS B
 ON A.UserID0 = B.UserID
