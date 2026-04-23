@@ -1,13 +1,13 @@
 # Bright-TV-Viewership
 Analysis of BrightTV Data
 
-### Problem statement
+## Problem statement
 The CEO wants to grow the company’s subscription base. I am tasked to analyse the 4 months historical data, in-order to understand Bright TV’s viewership trends.
 
-### Aim
+## Aim
 The aim of this project is to provide detailed insights from the historical data.
 
-### Objectives
+## Objectives
 In order to achieve the aim, the following objectives must be met:
 
 - Use Miro for project planning (data inspection and analysis flow process)
@@ -17,11 +17,11 @@ In order to achieve the aim, the following objectives must be met:
 - Use Google Looker Studio and Microsoft Power BI for dashboard creation
 - Use Microsoft PowerPoint for presentation
 
-### Summary of results
-#### Dashboards Links:
-Google Looker Studio: https://datastudio.google.com/reporting/0de688b6-93eb-4751-abcd-fe5471ed1071/page/DcavF
-Power BI: 
-Lovable AI: 
+## Summary of results
+### Dashboards Links:
+#### Google Looker Studio: https://datastudio.google.com/s/ikeRJviNq7Q
+#### Power BI: 
+#### Lovable AI: 
 
 - The total number of TV views is 10000, and the total number of viewers/subscribers is 4526.
 - There are 21 TV channels.
