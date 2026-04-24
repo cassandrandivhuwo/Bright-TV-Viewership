@@ -11,20 +11,14 @@ The aim of this project is to extract insights from the data and provide support
 
 ## Objectives
 In order to achieve the aim, the following objectives must be met:
-### Project Planning
+
 - Miro for project planning (analysis process planning and process flow diagram)
 - Canva for project planning (project timeline on Gantt Chart)
-
-### Data Processing
-- Databricks (SQL) 
-
-### Data Visualisation
+- Databricks (SQL) for data processing
 - Microsoft Excel for Data Visualisation and Dashboard creation
 - Google Looker Studio or Data Studio for Dashboard creation
 - Microsoft Power BI for Dashboard creation
 - Lovable AI for Dashboard creation
-
-### Presentation
 - Microsoft PowerPoint
 - NotebookLM AI for presentation
 
