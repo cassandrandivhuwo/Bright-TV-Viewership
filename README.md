@@ -20,9 +20,10 @@ In order to achieve the aim, the following objectives must be met:
 - Microsoft Power BI for Dashboard creation
 - Lovable AI for Dashboard creation
 - Microsoft PowerPoint
-- NotebookLM AI for presentation
+- CANVA AI for presentation
 
 ## Summary of results
+Summary of results and links to dashboards:
 - The total number of TV views is 10000 over the 4 months period.
 - There are 21 TV channels.
 - The most viewed channels are sports (Supersport Live Events with 1637 views) and ICC Cricket World Cup 2011 with 1464 views), followed by music (Channel O with 1050 views). 
@@ -38,7 +39,6 @@ In order to achieve the aim, the following objectives must be met:
 
 ### Dashboards Links:
 #### Google Looker Studio/ DataStudio: https://datastudio.google.com/s/rHh6m4LjLfs
-#### Power BI: 
 #### Lovable AI: https://bright-tv-viewership.lovable.app
 
 ## Recommendations
