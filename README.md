@@ -19,7 +19,7 @@ In order to achieve the aim, the following objectives must be met:
 
 ## Summary of results
 ### Dashboards Links:
-#### Google Looker Studio: https://datastudio.google.com/s/uL4FypAbSd8
+#### Google Looker Studio/ DataStudio: https://datastudio.google.com/s/uL4FypAbSd8
 #### Power BI: 
 #### Lovable AI: https://bright-tv-viewership.lovable.app
 
