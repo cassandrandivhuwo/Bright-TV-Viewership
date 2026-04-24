@@ -104,7 +104,7 @@ LEFT JOIN `workspace`.`case_study2`.`user_profiles_6` AS B
 ON A.UserID0 = B.UserID;
 
 -----------------------------------------------Check the minimum, max and average Age
----The minimum age is 0, maximum age is 114, and the average age is 32.227
+---The minimum age is 0, maximum age is 114, and the average age is 32
 SELECT MIN(B.Age) AS youngest_age,
 MAX(B.Age) AS oldest_age,
 AVG(B.Age) AS average_age
