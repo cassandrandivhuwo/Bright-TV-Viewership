@@ -23,6 +23,7 @@ In order to achieve the aim, the following objectives must be met:
 - NotebookLM AI for presentation
 
 ## Summary of results
+Summary of results and links to dashboards:
 - The total number of TV views is 10000 over the 4 months period.
 - There are 21 TV channels.
 - The most viewed channels are sports (Supersport Live Events with 1637 views) and ICC Cricket World Cup 2011 with 1464 views), followed by music (Channel O with 1050 views). 
