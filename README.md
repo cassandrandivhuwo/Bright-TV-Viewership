@@ -21,7 +21,7 @@ In order to achieve the aim, the following objectives must be met:
 ### Dashboards Links:
 #### Google Looker Studio: https://datastudio.google.com/s/uL4FypAbSd8
 #### Power BI: 
-#### Lovable AI: 
+#### Lovable AI: https://bright-tv-viewership.lovable.app
 
 - The total number of TV views is 10000, and the total number of viewers/subscribers is 4526.
 - There are 21 TV channels.
