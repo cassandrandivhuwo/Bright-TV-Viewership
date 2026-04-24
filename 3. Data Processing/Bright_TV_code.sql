@@ -71,7 +71,7 @@ LIMIT 100;
 
 ---Check unique channel categories
 ---There are 21 channels
-SELECT DISTINCT A.Channel2 
+SELECT COUNT(DISTINCT A.Channel2) AS number_of_channels 
 FROM `workspace`.`case_study2`.`viewership_6` AS A 
 LEFT JOIN `workspace`.`case_study2`.`user_profiles_6` AS B
 ON A.UserID0 = B.UserID
@@ -94,7 +94,7 @@ SELECT distinct B.Province
 FROM `workspace`.`case_study2`.`viewership_6` AS A 
 LEFT JOIN `workspace`.`case_study2`.`user_profiles_6` AS B
 ON A.UserID0 = B.UserID;
-
+-------------------------------------------------Convert date from utc to SAST timestamps
 -------------------------------------------------Check the date range
 ---There are 4 months data records, colleted from 2016-01-01 to 2016-04-01
 SELECT MIN (DATE(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg'))) AS min_date,
@@ -163,6 +163,7 @@ LIMIT 10;
 -----------------------------------------------------
 SELECT 
 ---Categorical columns
+      A.UserID0,
       A.Channel2,
       B.Gender,
       B.Race,
@@ -194,42 +195,8 @@ SELECT
             WHEN B.Age BETWEEN 18 AND 34 THEN '4.Youth'
             WHEN B.Age BETWEEN 35 AND 64 THEN '5.Adults'
            ELSE '6.Elder'
-      END AS age_buckets,
-         
---- COUNTS of ID
-      COUNT(DISTINCT A.UserID0) AS number_of_viewers
-     
+      END AS age_buckets
+              
 FROM `workspace`.`case_study2`.`viewership_6` AS A 
 LEFT JOIN `workspace`.`case_study2`.`user_profiles_6` AS B
-ON A.UserID0 = B.UserID
-GROUP BY A.Channel2,
-      B.Gender,
-      B.Race,
-      B.Province,
-      DATE(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg')),
-      Dayname(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg')),
-      Monthname(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg')),
-      Dayofmonth(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg')),
-      date_format(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg'), 'HH:mm:ss'),
-    ---Date & time      
-      CASE
-            WHEN Dayname(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg')) IN('Sun','Sat') THEN 'Weekend'
-            ELSE 'Weekday'
-      END,
-           
-      CASE
-            WHEN date_format(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg'), 'HH:mm:ss') BETWEEN '05:00:00' AND '11:59:59' THEN '1.Morning'
-            WHEN date_format(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg'), 'HH:mm:ss') BETWEEN '12:00:00' AND '17:59:59' THEN '2.Afternoon'
-            WHEN date_format(from_utc_timestamp(A.RecordDate2, 'Africa/Johannesburg'), 'HH:mm:ss')  BETWEEN '18:00:00' AND '21:59:59' THEN '3.Evening'
-            ELSE '4.Night'
-        END,
-         
---- Age buckets
-      CASE
-            WHEN B.Age = 0 THEN '1.New Born'
-            WHEN B.Age BETWEEN 1 AND 14 THEN '2.Kids'
-            WHEN B.Age BETWEEN 15 AND 17 THEN '3.Teens'
-            WHEN B.Age BETWEEN 18 AND 34 THEN '4.Youth'
-            WHEN B.Age BETWEEN 35 AND 64 THEN '5.Adults'
-           ELSE '6.Elder'
-      END;
+ON A.UserID0 = B.UserID;
