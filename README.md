@@ -20,7 +20,7 @@ In order to achieve the aim, the following objectives must be met:
 - Microsoft Power BI for Dashboard creation
 - Lovable AI for Dashboard creation
 - Microsoft PowerPoint
-- NotebookLM AI for presentation
+- CANVA AI for presentation
 
 ## Summary of results
 Summary of results and links to dashboards:
@@ -39,7 +39,6 @@ Summary of results and links to dashboards:
 
 ### Dashboards Links:
 #### Google Looker Studio/ DataStudio: https://datastudio.google.com/s/rHh6m4LjLfs
-#### Power BI: 
 #### Lovable AI: https://bright-tv-viewership.lovable.app
 
 ## Recommendations
