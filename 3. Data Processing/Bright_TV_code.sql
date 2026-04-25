@@ -27,7 +27,7 @@ LIMIT 100;
 
 ---Check the number of channels
 ---The number of channels is 10000
-SELECT COUNT (A.Channel2) As number_of_channels
+SELECT COUNT (A.Channel2) As number_of_channels_views
 FROM `workspace`.`case_study2`.`viewership_6` AS A 
 LEFT JOIN `workspace`.`case_study2`.`user_profiles_6` AS B
 ON A.UserID0 = B.UserID
