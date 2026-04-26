@@ -3,8 +3,6 @@ Bright TV is a media company where TV viewers subscribe to view different channe
 
 ## Problem statement
 - The CEO wants to grow the company’s subscription base. I am tasked to analyse the 4 months historical data, in-order to understand Bright TV’s viewership trends.
-- The CEO wants to grow the company’s subscription base for this financial year.
-- I am tasked to analyse 4 months historical data consisting of user profiles and viewership, in-order to understand Bright TV’s viewership trends.
 
 ## Aim
 The aim of this project is to extract insights from the data and provide support to the Customer Value Management (CVM) team.
