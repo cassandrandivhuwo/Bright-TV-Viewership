@@ -23,9 +23,9 @@ In order to achieve the aim, the following objectives must be met:
 Summary of results and links to dashboards:
 - 10,000 total views were recorded across 21 channels over 4 months.
 - Viewership trended upward from January (2,199) peaking in March (4,816).
-- Sports dominates — SuperSport Live Events (1,637 views) and ICC Cricket World Cup (1,464 views) are the top two channels, followed by music channel Channel O (1,050 views).
+- Sports dominates: SuperSport Live Events (1,637 views) and ICC Cricket World Cup (1,464 views) are the top two channels, followed by music channel Channel O (1,050 views).
 - Fridays and Saturdays are the busiest viewing days; Mondays are the slowest. Afternoons drive the most viewing (3,734), while nights are the least popular (1,329).
-- The male audience accounts for the overwhelming majority of views (8,755 vs. 977 female).
+- The male audience form the majority of views (8,755 vs. 977 female).
 - The Youth segment leads all age groups (5,632 views).
 - Geographically Gauteng dominates (3,654 views), with the Northern Cape (230) and Free State (292) being the weakest regions.
 
