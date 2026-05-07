@@ -14,7 +14,7 @@ In order to achieve the aim, the following objectives must be met:
 - Canva for project planning (project timeline on Gantt Chart)
 - Databricks (SQL) for data processing
 - Microsoft Excel for Data Visualisation and Dashboard creation
-- Google Looker Studio or Data Studio for Dashboard creation
+- Google Looker Studio (Data Studio) for Dashboard creation
 - Lovable AI for Dashboard creation
 - Microsoft PowerPoint for presentation
 - CANVA AI for presentation
