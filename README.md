@@ -14,36 +14,32 @@ In order to achieve the aim, the following objectives must be met:
 - Canva for project planning (project timeline on Gantt Chart)
 - Databricks (SQL) for data processing
 - Microsoft Excel for Data Visualisation and Dashboard creation
-- Google Looker Studio or Data Studio for Dashboard creation
+- Google Looker Studio (Data Studio) for Dashboard creation
 - Lovable AI for Dashboard creation
 - Microsoft PowerPoint for presentation
 - CANVA AI for presentation
 
 ## Summary of results
 Summary of results and links to dashboards:
-- The total number of TV views is 10000 over the 4 months period.
-- There are 21 TV channels.
-- The most viewed channels are sports (Supersport Live Events with 1637 views) and ICC Cricket World Cup 2011 with 1464 views), followed by music (Channel O with 1050 views). 
-- There is an upward trend in the number of views from January (2199) which peaks in March (4816).
-- Friday (1675) is the highest consumption day of the week, followed by Saturday (1633) and Wednesday (1553).
-- Monday (957) is the lowest consumption day of the week.
-- Afternoon (3734) is the most popular time to view TV , followed by the evening (2482), while night (1329) is the least popular time to view TV.
-- The male gender has the highest views (8755), while female have low views (977).
-- The Youth (5632) have the largest number of TV views, followed by adults (3776), while elders (53) are the lowest number of TV viewers.
-- The Black Race (43.3%) is the majority TV viewer, followed by Coloured (16.3%) and Indian_Asian (15.8%), while the White Race has a low (12.9%) viewership
-- Gauteng has the largest number of TV views (3654), followed by Western Cape (1845), and KwaZulu Natal (1001).
-- Free State (292) and Northern Cape (230) have lower number of views.
+- 10,000 total views were recorded across 21 channels over 4 months.
+- Viewership trended upward from January (2,199) peaking in March (4,816).
+- Sports dominates: SuperSport Live Events (1,637 views) and ICC Cricket World Cup (1,464 views) are the top two channels, followed by music channel Channel O (1,050 views).
+- Fridays and Saturdays are the busiest viewing days; Mondays are the slowest. Afternoons drive the most viewing (3,734), while nights are the least popular (1,329).
+- The male audience form the majority of views (8,755 vs. 977 female).
+- The Youth segment leads all age groups (5,632 views).
+- Geographically Gauteng dominates (3,654 views), with the Northern Cape (230) and Free State (292) being the weakest regions.
 
 ### Dashboards Links:
 #### Google Looker Studio/ DataStudio: https://datastudio.google.com/s/rHh6m4LjLfs
 #### Lovable AI: https://bright-tv-viewership.lovable.app
 
 ## Recommendations
-- Show content with high number of viewers such as: Supersport Live Events, ICC Cricket World Cup 2011, Channel 0 and Trace TV, to attract more youth and teen viewers on days with low TV consumption (e.g. Monday), to increase viewership.
-- Grow the number of female viewers by showing content that appeals to females e.g. E!Entertainment and African Magic.
-- Focus on growing viewership in provinces like the Northern Cape and Free State through location specific promotions.
-- Show more shows that can attract white viewers, maybe Afrikaans language content.
-- In the afternoon focus on kids friendly content such as Cartoon Network and Boomerang, to increase the number of kids viewers.
-- Do not neglect your most loyal viewers including provinces with high views, the youth and adults, the black race and Friday- the highest TV consumption day. 
-
+-  Air high-performing sports and music content on low-viewership days like Monday to lift engagement
+-  Grow the female audience by scheduling female-oriented content (E! Entertainment, African Magic)
+-  Target weaker provinces with location-specific promotions
+-  Introduce Afrikaans or culturally relevant content to grow the white viewer segment
+-  Dedicate afternoon slots to kids' content (Cartoon Network, Boomerang) to build a younger audience base
+  
+### Bottom line
+- Viewership is heavily skewed toward male, youth, sports fans in Gauteng — the recommendations focus on diversifying across gender, age, content type, and geography to broaden the subscription base.
 
