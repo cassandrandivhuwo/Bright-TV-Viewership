@@ -30,7 +30,7 @@ Summary of results and links to dashboards:
 - Geographically Gauteng dominates (3,654 views), with the Northern Cape (230) and Free State (292) being the weakest regions.
 
 ### Dashboards Links:
-#### Google Looker Studio/ DataStudio: https://datastudio.google.com/s/rHh6m4LjLfs
+#### Google Looker Studio/ DataStudio: https://datastudio.google.com/s/nIKO7hwi2ww
 #### Lovable AI: https://bright-tv-viewership.lovable.app
 
 ## Recommendations
